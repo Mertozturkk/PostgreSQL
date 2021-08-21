@@ -7,4 +7,4 @@ Sorgu senaryoları [dvdrental](https://www.postgresqltutorial.com/wp-content/upl
 
 1. [AND-OR-NOT Örnekleri](https://github.com/Mertozturkk/PostgreSQL/blob/main/AND-OR-NOT.md)
 2. [BETWEEN-IN Örnekleri](https://github.com/Mertozturkk/PostgreSQL/blob/main/between-in.md)
-3. [LIKE-ILIKE Örnekleri}(https://github.com/Mertozturkk/PostgreSQL/blob/main/LIKE-ILIKE.md)
+3. [LIKE-ILIKE Örnekleri](https://github.com/Mertozturkk/PostgreSQL/blob/main/LIKE-ILIKE.md)
