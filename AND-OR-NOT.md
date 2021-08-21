@@ -9,7 +9,7 @@ Sorgu senaryoları [dvdrental](https://www.postgresqltutorial.com/wp-content/upl
 1. film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 
 
-![sorgu1](PostgreSQL\img\dvdrental_1.jpg)
+![sorgu1](PostgreSQL/img/dvdrental_1.jpg)
 
 ```SQL
 
