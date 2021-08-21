@@ -6,4 +6,4 @@ Sorgu senaryoları [dvdrental](https://www.postgresqltutorial.com/wp-content/upl
 -----------
 
 1. [AND-OR-NOT Örnekleri](https://github.com/Mertozturkk/PostgreSQL/blob/main/AND-OR-NOT.md)
-2. [BETWEEN-IN Örnekleri]()
+2. [BETWEEN-IN Örnekleri](https://github.com/Mertozturkk/PostgreSQL/blob/main/between-in.md)
