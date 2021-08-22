@@ -11,3 +11,4 @@ Sorgu senaryoları [dvdrental](https://www.postgresqltutorial.com/wp-content/upl
 2. [BETWEEN-IN Örnekleri](https://github.com/Mertozturkk/PostgreSQL/blob/main/between-in.md)
 3. [LIKE-ILIKE Örnekleri](https://github.com/Mertozturkk/PostgreSQL/blob/main/LIKE-ILIKE.md)
 4. [DISTINCT-COUNT Örnekleri](https://github.com/Mertozturkk/PostgreSQL/blob/main/DISTINCT-COUNT.md)
+5. [PSQL ile Query Örnekleri](https://github.com/Mertozturkk/PostgreSQL/blob/main/psql.md)
