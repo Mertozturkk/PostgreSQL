@@ -1,4 +1,4 @@
-## DISTINCT-COUNT Komut kullanım örenkleri
+## DISTINCT-COUNT Komut kullanım örnekleri
 ---
 
 1. film tablosunda bulunan replacement_cost sütununda bulunan birbirinden farklı değerleri sıralayınız.
