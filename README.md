@@ -1,6 +1,8 @@
 # PostgreSQL ile Query Örnek Çalışmaları
 Bu repo PostgreSQL DBMS ile SQL komutlarının kullanımını göstermek için oluşturulmuştur
 
+![postgreSQL](img/main.jpeg)
+
 Sorgu senaryoları [dvdrental](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) veritabanı üzerinden gerçekleştirilmiştir.
 
 -----------
