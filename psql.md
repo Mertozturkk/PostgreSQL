@@ -58,5 +58,6 @@ WHERE (length BETWEEN 80 AND 120) AND (rental_rate IN (0.99, 2.99));
 ![query3](img/psql6.jpg)
 
 ```SQL
-SELECT *  FROM WHERE ( title ILIKE ('%a%a%a%')) AND (length > 100) AND (replacement_cost >15 AND replacement_cost < 25) AND rental_rate =2.99;
+SELECT *  FROM film
+WHERE ( title ILIKE ('%a%a%a%')) AND (length > 100) AND (replacement_cost >15 AND replacement_cost < 25) AND rental_rate =2.99;
 ```
