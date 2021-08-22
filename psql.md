@@ -33,7 +33,7 @@
 
 ### Örnek Sorgu Senaryoları
 
-1. customer tablosunda bulunan first_name değeri ve last_name değeri 'G' karakteri ile başlayan verileri sıralayınız.
+1. customer tablosunda bulunan first_name değeri  'A' ve last_name değeri 'G' karakteri ile başlayan verileri sıralayınız.
 
 ![query1](img/psql4.jpg)
 
